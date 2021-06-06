@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarea3</string>
+    <string name="titulo_app">Marcianito</string>
+    <string name="texto">Texte de l application</string>
+    <string name="boton">Entrer</string>
+    <string name="saludo">Bienvenue </string>
+    <string name="boton2">Bouton</string>
+</resources>
